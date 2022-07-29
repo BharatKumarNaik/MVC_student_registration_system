@@ -1,0 +1,19 @@
+Name:BHARAT KUMAR NAIK
+SRN:PES2UG19CS086
+
+Title:Student Management System
+This Java MVC project deals with the management of student database along with a set of features to help in updating the student's credentials and deleting
+the details of the student from the database,while having a display function to show all the student details.
+
+
+Description:
+*MVC (Model-View-Controller) is Implemented using Spring Java Framework.
+*We will create attributes in view part to take input from the user to store the Student details.
+*The controller connects that view to model, model will take the user input, do the updates.
+*Changes are updated in view by the help of controller.
+*Controller acts like bridge between the view and model.
+*We created the 3 columns to store the database, the user input will be stored in MySql database.
+*When the user wants to transmit or receive data, the Controller responds by asking or sending the data from the Model.
+After that, the Controller sends the result (success or error) back to the View.
+View also operated via the Controller,enquiring about the data or adding it to the Model.
+Finally, the Controller validates the data for updating by the Mode.
